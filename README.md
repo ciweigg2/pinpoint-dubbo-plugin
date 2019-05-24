@@ -12,4 +12,6 @@ mvn install:install-file -Dfile=pinpoint-commons-1.8.3.jar -DgroupId=com.naverco
 
 替换D:\Asd\pinpoint-agent-1.8.3\plugin中的pinpoint-dubbo-plugin-1.8.3.jar
 
-![dubbo监控](catalogues/imgs/20190524155128.png)
+![dubbo监控呀](catalogues/imgs/20190524155128.png)
+
+![dubbo链路呀](catalogues/imgs/20190524160607.png)
